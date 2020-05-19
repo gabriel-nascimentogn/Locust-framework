@@ -1,2 +1,1 @@
-# locust-master
- Exemplo de Websocket em Python
+O Locust é um framework para teste de carga de servidores web
